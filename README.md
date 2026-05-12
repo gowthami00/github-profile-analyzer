@@ -32,7 +32,8 @@ streamlit run app.py
 4. Open browser at http://localhost:8501
 
 ## 🔗 Live Demo
-Coming soon...
+## 🔗 Live Demo
+[Click here to view the app](https://your-app-link.streamlit.app)
 
 ## 👩‍💻 Made by
 Gowthami — B.Tech 3rd Year
