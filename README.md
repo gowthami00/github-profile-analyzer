@@ -33,7 +33,7 @@ streamlit run app.py
 
 ## 🔗 Live Demo
 ## 🔗 Live Demo
-[Click here to view the app](app-profile-analyzer-9nrejv2jdyqxvhsw2htonr)
+[Click here to view the app](https://app-profile-analyzer-9nrejv2jdyqxvhsw2htonr.streamlit.app)
 
 ## 👩‍💻 Made by
 Gowthami — B.Tech 3rd Year
